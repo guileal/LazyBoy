@@ -1,0 +1,17 @@
+# Virtual Environment
+lazyEnv/
+
+# Compiled Python files
+*.pyc
+__pycache__/
+
+# CPython
+*.pyc
+*.pyo
+__pycache__/
+
+# PyCharm files
+.idea/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
